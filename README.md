@@ -3,6 +3,7 @@
 * Covid-19
 * Pneumoniá Bacterial
 * Pneumoniá Vírica
+  La base de datos pesa 1.69 gb por lo que no podra ser subida a Github.
 ### Cargamos la base de datos en nuestro Jupyter Notebook con Python [Code](https://github.com/bastianastudillo98/Projects-Data-Science-/blob/main/Pulmonary%20Diseases/Code/Pulmonary%20Diseases%20Deep%20Learning.ipynb)  y se obtiene lo siguiente:
 
 ![Entrada Imagenes](https://github.com/bastianastudillo98/Projects-Data-Science-/blob/main/Pulmonary%20Diseases/Image/Entrada.png)
