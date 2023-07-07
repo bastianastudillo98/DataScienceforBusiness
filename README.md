@@ -1,4 +1,6 @@
-### La investigación está enfocada en un hospital que necesita automatizar el proceso de detección y clasificación de las enfermedades de pulmón. De esta forma, reducir el coste y tiempo en la detección de enfermedades para ello la base de datos está compuesta por 133 imágenes que pertenecen a 4 categorías:
+# Departamento Salud Enfermades Pulmonares 
+
+La investigación está enfocada en un hospital que necesita automatizar el proceso de detección y clasificación de las enfermedades de pulmón. De esta forma, reducir el coste y tiempo en la detección de enfermedades para ello la base de datos está compuesta por 133 imágenes que pertenecen a 4 categorías:
 * Sano
 * Covid-19
 * Pneumoniá Bacterial
